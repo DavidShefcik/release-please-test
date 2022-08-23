@@ -1,0 +1,8 @@
+{
+  "name": "release-please-test",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:DavidShefcik/release-please-test.git",
+  "author": "David Shefcik <dshefcik@plaidypus.com>",
+  "license": "MIT"
+}
